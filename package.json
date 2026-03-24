@@ -1,0 +1,23 @@
+{
+  "name": "api-higor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/higorsimao2001-svg/API-Higor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/higorsimao2001-svg/API-Higor/issues"
+  },
+  "homepage": "https://github.com/higorsimao2001-svg/API-Higor#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
