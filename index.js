@@ -8,7 +8,7 @@ app.get("/", (req, res) => {
 
 
 app.listen(3005, () => {
-  console.log("Servidor on");
+  console.log("Servidor on, na porta 3005");
 });
 
 app.get("/:nome", (req, res) => {
